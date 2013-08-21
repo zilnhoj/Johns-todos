@@ -4,4 +4,6 @@ Butter
 Bread
 Cheese
 Sausages
-
+Tea
+Coffee
+Beer
