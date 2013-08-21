@@ -1,7 +1,7 @@
-Milk
 Bread
+Beer
+Coffee
 Cheese
+Milk
 Sausages
 Tea
-Coffee
-Beer

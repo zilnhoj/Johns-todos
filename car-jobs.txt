@@ -1,5 +1,4 @@
-MOT car
-tax car
 insure car
+MOT car
 tax car
 wash car
