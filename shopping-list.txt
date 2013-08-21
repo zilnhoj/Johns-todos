@@ -6,3 +6,7 @@ Milk
 Sausages
 Tea
 wine
+coffee
+cake
+chicken
+
