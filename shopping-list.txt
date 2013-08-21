@@ -9,4 +9,8 @@ wine
 coffee
 cake
 chicken
+Monkey
+Orange
+Lemon
+Chipmunk
 
