@@ -1,6 +1,4 @@
-Eggs
 Milk
-Butter
 Bread
 Cheese
 Sausages
