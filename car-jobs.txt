@@ -1,2 +1,5 @@
 MOT car
 tax car
+insure car
+tax car
+wash car
