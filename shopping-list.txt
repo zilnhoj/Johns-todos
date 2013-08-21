@@ -1,0 +1,4 @@
+Eggs
+Milk
+Bread
+Cheese
